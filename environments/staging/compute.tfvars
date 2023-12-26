@@ -1,0 +1,8 @@
+presentation_name   = "presentation-server-stage"
+application_name    = "application-server-stage"
+presentation_region = "nyc1"
+presentation_size   = "s-1vcpu-1gb"
+presentation_image  = "ubuntu-20-04-x64"
+application_region  = "nyc1"
+application_size    = "s-1vcpu-1gb"
+application_image   = "ubuntu-20-04-x64"
