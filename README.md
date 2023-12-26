@@ -48,3 +48,5 @@ export TF_VAR_digitalocean_token="your-digitalocean-token"
 - `terraform validate` (validate the configuration files)
 - `terraform plan -var-file=environments/dev/compute.tfvars -var-file=environments/dev/storage.tfvars` (preview the changes to be made)
 - `terraform apply -var-file=environments/dev/compute.tfvars -var-file=environments/dev/storage.tfvars` (apply the changes)
+
+  *** ***
