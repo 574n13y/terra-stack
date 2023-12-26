@@ -1,7 +1,7 @@
 # terra-stack
 Building and Securing Infrastructure-as-Code on DigitalOcean Cloud with Terraform, utilizing Three-Tier Architecture
 
-[![Website]()
+[![Website](https://github.com/574n13y/terra-stack/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/574n13y/terra-stack/actions/workflows/jekyll-gh-pages.yml)
 
 ## Description: 
 The terra-stack project is a comprehensive implementation of Infrastructure-as-Code (IaC) using Terraform, aimed at building and securing a three-tier architecture. This repository provides a standardized and efficient approach to deploy and manage the infrastructure required for modern web applications.
