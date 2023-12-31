@@ -49,6 +49,6 @@ export TF_VAR_digitalocean_token="your-digitalocean-token"
 - `terraform plan -var-file=environments/dev/compute.tfvars -var-file=environments/dev/storage.tfvars` (preview the changes to be made)
 - `terraform apply -var-file=environments/dev/compute.tfvars -var-file=environments/dev/storage.tfvars` (apply the changes)
 
-- [Github Repo](https://github.com/574n13y/terra-stack)
+- [Github Repo](https://github.com/574n13y/terra-stack){:target="_blank"}
 
   *** ***
